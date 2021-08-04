@@ -1,0 +1,13 @@
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.csprojAssemblyReference.cache
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.AssemblyInfoInputs.cache
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.AssemblyInfo.cs
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.csproj.CoreCompileInputs.cache
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.exe
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.deps.json
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.runtimeconfig.json
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.runtimeconfig.dev.json
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.dll
+C:\Users\camila\Projetos\DIOBank\DIOBank\bin\Debug\netcoreapp3.1\DIOBank.pdb
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.dll
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.pdb
+C:\Users\camila\Projetos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.genruntimeconfig.cache
